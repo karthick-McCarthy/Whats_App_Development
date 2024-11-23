@@ -1,0 +1,11 @@
+Whats_App_development
+
+Author : karthick
+
+1. profile page load
+
+2. chat screen code
+
+3. last seen code
+
+4. Attachments (Image, Audio, Video) code
